@@ -89,8 +89,7 @@ DOCTYPE html
 </head>
 <body>
   <header>
-    <div class="header-content">
-      <img scr="dsc_0783_edited_"alt="your profile picture"class="profile-picture">
+    <div class="header-content"  <img scr="dsc_0783_edited_"alt="your profile picture"class="profile-picture">
         <h1>Ranjani.S</h1>
 <p>studied computer application,final year</p>  
     </div>
@@ -104,8 +103,8 @@ DOCTYPE html
      <li><a href="#project">Project</a></li>
       </u1>
       </nav>
-      <section id+"about">
-      <div class+"section-content">
+      <section id="about">
+      <div class="section-content">
       <h2>About Me</h2>
       <p>hello everyone! this is Ranjani.S and I am a Computer Application Student.</p>
       </div>
