@@ -90,18 +90,18 @@ DOCTYPE html
 <body>
   <header>
     <div class="header-content">
-      <img scr="dsc_0783_edited_"alt="yourprofile picture"class="profile-picture"
+      <img scr="dsc_0783_edited_"alt="your profile picture"class="profile-picture">
         <h1>Ranjani.S</h1>
 <p>studied computer application,final year</p>  
     </div>
   </header>
   <nav>
     <u1>
-      <li><a href+"#about">About</a></li>
-      <li><a href+"#education>Education</a></li> 
-      <li><a href+"#skills">skill</a></li>
-      <li><a href+"#resume">resume</a></li>
-     <li><a href+"#project">Project</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#education>Education</a></li> 
+      <li><a href="#skills">skill</a></li>
+      <li><a href="#resume">resume</a></li>
+     <li><a href="#project">Project</a></li>
       </u1>
       </nav>
       <section id+"about">
