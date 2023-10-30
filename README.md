@@ -1,29 +1,25 @@
-DOCTYPE html
+!DOCTYPE html
 <html>
 <head>
-  <title>your name-protofolio</title>
+  <title>your name protofolio</title>
   <style>
-    body
-    {
-      font-family:arial,sans-serif;
+  body{
+    font-family:arial,sans-serif;
       margin:0;
       padding:0;
       background-color: brown;
       }
-    header
-    {
+    heade{
       background-color:blue;
       color:#fff;
       text-align:center;
       padding:2rem 0;
       position:relative;
       }
-    .header-content h1
-    {
+    .header-content h1{
       font-size:2.5rem;
       }
-    .profile-picture
-    {
+    .profile-picture{
       width:100px;
       height:100px;
       border-radius:75%;
@@ -32,55 +28,49 @@ DOCTYPE html
       top:75px;
       left:75px;
       }
-    nav
-    {
+    nav{
       background-color:#333;
       color:blue;
       text-align:center;
       }
-    nav u1
-    {
+    nav ul li{
       list-style-type:none;
       padding:0;
       }
-    nav u1 li
-    {
+    nav ul li{
       display:inline;
       margin:20px;
       }
-    nav u1 li a
-    {
+    nav u1 li a{
       text-decoration:none;
       color:white;
       }
-    .section-content
-    {
+    .section-content{
       background-color:#fff;
-      padding:2rem;margin:1rem;
+      padding:2rem;
+      margin:1rem;
       border-radius:20px;
       box-shadow:0 0 10px rgba(0,0,0,0.1);
       }
-    .download-button
-    {
+    .download-button{
       background-color:#333;
       color:green;
       padding:0.5rem 1rem;
+      text-decoration:none;
       border-radius:20px;
       display:inline-block;
       margin-top:10px;
       }
-    .download-button:hover
-    {
+    .download-button:hover {
       background-color:#333;
       }
-    footer
-    {
+    footer{
       text-align:center;
       padding:1 rem 0;
       background-color:#333;
       color:#fff;
       }
-    u1
+    ul
     {
       list-style-type:circle;
       padding-left:20px;
@@ -95,13 +85,13 @@ DOCTYPE html
     </div>
   </header>
   <nav>
-    <u1>
+    <ul>
       <li><a href="#about">About</a></li>
       <li><a href="#education>Education</a></li> 
       <li><a href="#skills">skill</a></li>
       <li><a href="#resume">resume</a></li>
      <li><a href="#project">Project</a></li>
-      </u1>
+      </ul>
       </nav>
       <section id="about">
       <div class="section-content">
@@ -118,20 +108,20 @@ DOCTYPE html
         <section id="skill">
           <div class="Section-content">
             <h2>skills</h2>
-          <u1>
+          <ul>
             <li>c</li>
            <li>c++</li>
             <li>java</li>
-          </u1>
+          </ul>
           </div>
         </section>
         <section id="project">
           <div class="section-content">
             <h2>project</h2>
-            <u1>
+            <ul>
               <li><a href="#">project 1</a></li>
               <li><a href="#">project 2</a></li>
-            </u1>
+            </ul>
           </div>
         </section>
         <section id="resume">
