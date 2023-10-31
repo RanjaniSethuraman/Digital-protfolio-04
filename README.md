@@ -80,7 +80,7 @@
 <body>
   <header>
     <div class="header-content">  
-      <img scr="dsc_0783_edited" alt="your profile picture" class="profile-picture">
+      <img scr="DSC_0783_edited_" alt="your profile picture" class="profile-picture">
         <h1>Ranjani.S</h1>
 <p>studied computer application,final year</p>  
     </div>
