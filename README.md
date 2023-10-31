@@ -30,7 +30,7 @@
       }
     nav{
       background-color:#333;
-      color:white;
+      color:blue;
       text-align:center;
       }
     nav ul li{
